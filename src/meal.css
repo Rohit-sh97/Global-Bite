@@ -1,0 +1,18 @@
+input {
+    width: 20rem;
+    background-color: rgb(40, 33, 33);
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 8px;
+    border-radius: 8px;
+    
+}
+
+input:focus {
+    outline: none;
+}
+
+.butnContainer button {
+   font-weight: bold;
+    padding: 10px;
+}
